@@ -141,3 +141,31 @@ nav{
     margin-bottom: 28px;
     animation: animate-profile-picture 800ms 200ms backwards;
 }
+
+/* Improving my own picture */
+
+.about-me__picture{
+    width: 100%;  
+}
+
+.about-me__info--para{
+    font-size: 20px;
+    margin-bottom: 28px;
+    animation: fade-up 650ms 400ms backwards;
+}
+
+.about-me__info--title{
+    margin-bottom: 16px;
+    animation: fade-up 800ms 400ms backwards;
+}
+
+.about-me__link{
+    font-size: 20px;
+    color: #242424;
+    text-decoration: none;
+    padding: 0 16px;
+}
+
+.about-me__links {
+    animation: fade-up 650ms 400ms backwards;
+}
