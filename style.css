@@ -169,3 +169,19 @@ nav{
 .about-me__links {
     animation: fade-up 650ms 400ms backwards;
 }
+
+.about-me__img--container {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin: 12px 0;
+}
+
+.about-me__img{
+    width: 100%;
+}
+
+.wave {
+    display: inline-block;
+    animation: wave-hand 500ms infinite ease-in-out;
+}
